@@ -1,1 +1,9 @@
-# Final-Project
+Overview and Reflection:
+
+My total aspirations for this project were almost fulfilled! I was really happy to get as far as I did, and even work out some issues that I thought of during the process like editting the graph scale. I also wanted to add more graphic elements, but I guess just the C# terminal isn't the best for that. I had also dreamed of creating a menu of the different files the user has ever saved that they could choose from to see, and even to maybe compare those files two at a time.
+
+I was interested in this project because I wanted to do something that was functional in real life. Doing the ATM simulation lab was interesting because instead of just being a fun little game, we were trying to make something that really needed to be foolproof (you can't leave any glitches for people to hack in a banking software). I was also intrigued at the idea of making a graph from numbers and scratch, and that was the most exciting part for me. 
+
+The program I created does about half the things I was dreaming about- it asks the user whether they want to input new data or look at the most recent file. For both options it will save the incomes, expenses, and net income, and will display a bar graph representing the relative proportions of each category. If I had more time I would work on making the graph scale adjust better (it's a bit buggy right now in certain situations) and letting the user choose which file they'd like to see instead of only giving them the option to see the most recent file.
+
+Doing this project, I got even more comfortable with dictionaries- they might be one of my favorite tools. I also learned, after a lot of overthinking on a few of the labs, how to convert a dictionary into an array in just one line of code. Who knew! Then I could easily save it and reload it later. I learned about the .Skip command for a string array, and the ToList and ToArray functions. 
